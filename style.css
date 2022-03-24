@@ -93,7 +93,7 @@ header p {
 }
 
 .listaTarefas .botaoFinalizarTarefa {
-    background-image: url(/Projeto/square.png) ;
+    background-image: url(/square.png) ;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -102,7 +102,7 @@ header p {
 }
 
 .listaTarefas li.tarefaFinalizada .botaoFinalizarTarefa{
-    background-image: url(/Projeto/check.png);
+    background-image: url(/check.png);
 }
 
 .listaTarefas .botãodeletar {

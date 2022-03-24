@@ -37,7 +37,7 @@ function adicionarNovaTarefa(){
     buttonFinalizarTarefa.addEventListener('click', finalizarTarefa);
 
     buttonRemoverTarefa.addEventListener('click', removerTarefa);
-    img.src = "/Projeto/lixeira.png";
+    img.src = "/lixeira.png";
     img.alt = "ImagemBotaoRemoverTarefa";
 
     buttonRemoverTarefa.appendChild(img);
