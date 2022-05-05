@@ -1,4 +1,4 @@
-﻿# formulario-modelo1
+﻿# Projeto Kenzie Academy Amazônia: Criação de uma lista de tarefas
 
 Projeto criado durante o evento KENZIE ACADEMY AMAZÔNIA que visou introduzir novos ingressantes ao mundo da programação. <br>
 
